@@ -1,6 +1,5 @@
-### WoodDatas
-Andoird学习资料汇总
-#### 开源库资源链接
+### WoodDatas(Andoird学习资料汇总)
+#### 一、开源库资源链接
 ##### UI类
 [图表库](https://github.com/PhilJay/MPAndroidChart)  [下拉刷新](https://github.com/scwang90/SmartRefreshLayout)
 [RecyclerViewAdapter](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
@@ -14,13 +13,12 @@ Andoird学习资料汇总
 [Universal-Imageloader](https://github.com/nostra13/Android-Universal-Image-Loader)
 [Glide](https://github.com/bumptech/glide)  [Picasso](https://github.com/square/picasso)
 [Fresco](https://github.com/facebook/fresco)
-
-##### 四、功能实现
-[Zxing](https://github.com/zxing/zxing)
-[Tinker](https://github.com/Tencent/tinker)
-
+##### 功能实现
 [RxJava](https://github.com/ReactiveX/RxJava)
 [RxAndroid](https://github.com/ReactiveX/RxAndroid)
-##### 五、项目类
+
+[Zxing](https://github.com/zxing/zxing)
+[Tinker](https://github.com/Tencent/tinker)
+##### 项目类
 [安卓组件化方案](https://github.com/luojilab/DDComponentForAndroid)
 
