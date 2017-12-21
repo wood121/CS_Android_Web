@@ -8,6 +8,7 @@
 [权限适配](https://github.com/jokermonn/permissions4m) 
 ##### 网络&图片
 [Retrofit](https://github.com/square/retrofit)  [Okhttp](https://github.com/square/okhttp)  [Volley](https://android.googlesource.com/platform/frameworks/volley)
+
 [Universal-Imageloader](https://github.com/nostra13/Android-Universal-Image-Loader) [Glide](https://github.com/bumptech/glide) [Picasso](https://github.com/square/picasso)  [Fresco](https://github.com/facebook/fresco)
 ##### 多媒体播放
 [b站开源播放器](https://github.com/Bilibili/ijkplayer)
@@ -22,9 +23,7 @@
 ##### Android源码解析
 [AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
 ##### 项目类
-[安卓组件化方案](https://github.com/luojilab/DDComponentForAndroid)
-[组件框架化项目](https://github.com/HelloChenJinJun/NewFastFrame)
-[多Activity与多Fragment](https://github.com/YoKeyword/Fragmentation)
+[安卓组件化方案](https://github.com/luojilab/DDComponentForAndroid)  [组件框架化项目](https://github.com/HelloChenJinJun/NewFastFrame)  [多Activity与多Fragment](https://github.com/YoKeyword/Fragmentation)
 
 
 
