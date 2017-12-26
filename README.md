@@ -23,7 +23,9 @@
 ##### Android源码解析
 [AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
 ##### 项目类
-[安卓组件化方案](https://github.com/luojilab/DDComponentForAndroid)  [组件框架化项目](https://github.com/HelloChenJinJun/NewFastFrame)  [多Activity与多Fragment](https://github.com/YoKeyword/Fragmentation)
+[得到app组件化方案](https://github.com/luojilab/DDComponentForAndroid)  
+[安居客组件化Demo](https://github.com/BaronZ88/MinimalistWeather/blob/master/build.gradle)
+[多Activity与多Fragment](https://github.com/YoKeyword/Fragmentation)
 
 
 
