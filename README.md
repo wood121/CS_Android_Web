@@ -10,6 +10,8 @@
 [Retrofit](https://github.com/square/retrofit)  [Okhttp](https://github.com/square/okhttp)  [Volley](https://android.googlesource.com/platform/frameworks/volley)
 
 [Universal-Imageloader](https://github.com/nostra13/Android-Universal-Image-Loader) [Glide](https://github.com/bumptech/glide) [Picasso](https://github.com/square/picasso)  [Fresco](https://github.com/facebook/fresco)
+
+[Matisse 知乎开源图片选择框架](https://github.com/zhihu/Matisse) 
 ##### 多媒体播放
 [b站开源播放器](https://github.com/Bilibili/ijkplayer)
 ##### 功能实现
