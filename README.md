@@ -5,7 +5,7 @@
 [RecyclerViewAdapter](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 ##### 封装工具类
 [工具类](https://github.com/Blankj/AndroidUtilCode) [AS Plugins](https://github.com/balsikandar/Android-Studio-Plugins)
-[权限适配](https://github.com/jokermonn/permissions4m) 
+[Hongyang_MPermissions](https://github.com/hongyangAndroid/MPermissions) [基于MPermissions_Permissions3m](https://github.com/jokermonn/permissions4m) 
 ##### 网络&图片
 [Retrofit](https://github.com/square/retrofit)  [Okhttp](https://github.com/square/okhttp)  [Volley](https://android.googlesource.com/platform/frameworks/volley)
 
