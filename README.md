@@ -28,6 +28,6 @@
 [得到app组件化方案](https://github.com/luojilab/DDComponentForAndroid)  
 [安居客组件化Demo](https://github.com/BaronZ88/MinimalistWeather/blob/master/build.gradle)
 [多Activity与多Fragment](https://github.com/YoKeyword/Fragmentation)
-
-
+##### sth fun
+[luckyMoney_star5000+](https://github.com/geeeeeeeeek/WeChatLuckyMoney) [qianghongbao](https://github.com/lendylongli/qianghongbao) [N的api适配](https://github.com/AnyMarvel/WeChatLuckyMoney)
 
