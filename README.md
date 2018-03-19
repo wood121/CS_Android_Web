@@ -8,7 +8,7 @@
 [工具类](https://github.com/Blankj/AndroidUtilCode) [AS Plugins](https://github.com/balsikandar/Android-Studio-Plugins)
 [Hongyang_MPermissions](https://github.com/hongyangAndroid/MPermissions) [基于MPermissions_Permissions3m](https://github.com/jokermonn/permissions4m) 
 ##### 网络&图片
-[Retrofit](https://github.com/square/retrofit)  [Okhttp](https://github.com/square/okhttp)  [Volley](https://android.googlesource.com/platform/frameworks/volley)
+[Retrofit](https://github.com/square/retrofit)  [Okhttp](https://github.com/square/okhttp)  [Volley](https://android.googlesource.com/platform/frameworks/volley) [android-async-http](https://github.com/loopj/android-async-http)
 
 [Universal-Imageloader](https://github.com/nostra13/Android-Universal-Image-Loader) [Glide](https://github.com/bumptech/glide) [Picasso](https://github.com/square/picasso)  [Fresco](https://github.com/facebook/fresco)
 
