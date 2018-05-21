@@ -33,10 +33,10 @@
 ##### Android源码解析
 [AndroidSdkSourceAnalysis](https://github.com/LittleFriendsGroup/AndroidSdkSourceAnalysis)
 ##### 项目类
-[android-architecture](https://github.com/googlesamples/android-architecture)  &nbsp; 
-[得到app组件化方案](https://github.com/luojilab/DDComponentForAndroid)  &nbsp; 
+[得到app组件化方案](https://github.com/luojilab/DDComponentForAndroid) &nbsp; 
 [安居客组件化Demo](https://github.com/BaronZ88/MinimalistWeather/blob/master/build.gradle)
 
+[android-architecture](https://github.com/googlesamples/android-architecture) &nbsp; 
 [wanandroid -- java版](https://github.com/JsonChao/Awesome-WanAndroid)
 ##### sth fun
 [luckyMoney_star5000+](https://github.com/geeeeeeeeek/WeChatLuckyMoney) [qianghongbao](https://github.com/lendylongli/qianghongbao) [N的api适配](https://github.com/AnyMarvel/WeChatLuckyMoney)
