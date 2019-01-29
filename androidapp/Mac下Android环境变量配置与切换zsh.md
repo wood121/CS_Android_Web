@@ -27,7 +27,7 @@
 >zsh --version
 或输入这个命令查看zsh版本
 
-2.改变默认的shell
+2.改变默认的shell
 >我们只需要在终端输入zsh，即可完成切换
 
 3.重启Terminal
