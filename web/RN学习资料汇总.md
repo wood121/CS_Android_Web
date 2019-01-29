@@ -1,4 +1,4 @@
-###一 JavaScript 基础
+### 一 JavaScript 基础
 >W3C课堂 http://www.w3school.com.cn/h.asp
 主要学习了解：HTML/CSS，JavaScript基础教程、高级教程
 
