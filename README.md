@@ -1,4 +1,3 @@
-### WoodDatas(Andoird学习资料汇总)
 #### 一、开源库资源链接
 ##### UI类
 [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
