@@ -1,6 +1,8 @@
 **[Markdown基本语法](https://www.jianshu.com/p/191d1e21f7ed)**
 
+
 #### 一、开源库资源链接
+[Android 常用开源库总结](https://juejin.im/post/5c80d817e51d4541ea7202a1?utm_source=gold_browser_extension)
 ##### UI类
 [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
 [图表库](https://github.com/PhilJay/MPAndroidChart) [下拉刷新](https://github.com/scwang90/SmartRefreshLayout)
